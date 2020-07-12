@@ -16,4 +16,6 @@ pip install django
 django-admin startproject CragClone
 ```
 
-## License
+## Contribute:
+URL: https://www.youtube.com/watch?v=JT80XhYJdBw&t=19993s
+
