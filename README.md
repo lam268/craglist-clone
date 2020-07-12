@@ -1,1 +1,19 @@
-# craglist-clone
+# CragClone
+
+CragClone is a clone-website of Craglist Viet Nam
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install django.
+
+```bash
+pip install django
+```
+
+## Create django project
+
+```python
+django-admin startproject CragClone
+```
+
+## License
